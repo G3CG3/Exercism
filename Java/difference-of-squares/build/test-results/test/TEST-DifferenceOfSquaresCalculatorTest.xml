@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DifferenceOfSquaresCalculatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-02-20T19:27:05" hostname="DESKTOP-PS9LSPL" time="0.488">
+  <properties/>
+  <testcase name="testDifferenceOfSquaresUpToHundred()" classname="DifferenceOfSquaresCalculatorTest" time="0.321"/>
+  <testcase name="testSquareOfSumUpToOne()" classname="DifferenceOfSquaresCalculatorTest" time="0.009"/>
+  <testcase name="testSquareOfSumUpToHundred()" classname="DifferenceOfSquaresCalculatorTest" time="0.003"/>
+  <testcase name="testDifferenceOfSquaresUpToOne()" classname="DifferenceOfSquaresCalculatorTest" time="0.003"/>
+  <testcase name="testSumOfSquaresUpToHundred()" classname="DifferenceOfSquaresCalculatorTest" time="0.004"/>
+  <testcase name="testSquareOfSumUpToFive()" classname="DifferenceOfSquaresCalculatorTest" time="0.01"/>
+  <testcase name="testDifferenceOfSquaresUpToFive()" classname="DifferenceOfSquaresCalculatorTest" time="0.008"/>
+  <testcase name="testSumOfSquaresUpToOne()" classname="DifferenceOfSquaresCalculatorTest" time="0.026"/>
+  <testcase name="testSumOfSquaresUpToFive()" classname="DifferenceOfSquaresCalculatorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

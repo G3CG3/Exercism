@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SchoolTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2025-03-04T18:25:04" hostname="DESKTOP-PS9LSPL" time="0.346">
+  <properties/>
+  <testcase name="gradeIsEmptyIfNoStudentsInThatGrade()" classname="SchoolTest" time="0.135"/>
+  <testcase name="addingStudentsInMultipleGrades()" classname="SchoolTest" time="0.007"/>
+  <testcase name="studentNotAddedToSameGradeInTheRosterMoreThanOnce()" classname="SchoolTest" time="0.011"/>
+  <testcase name="studentsAreSortedByGradeInTheRoster()" classname="SchoolTest" time="0.004"/>
+  <testcase name="addingMultipleStudentsInTheSameGrade()" classname="SchoolTest" time="0.002"/>
+  <testcase name="cannotAddStudentsToSameGradeInTheRosterMoreThanOnce()" classname="SchoolTest" time="0.006"/>
+  <testcase name="studentNotAddedToMultipleGrades()" classname="SchoolTest" time="0.006"/>
+  <testcase name="addingStudentsToDifferentGradesAddsThemToTheSameSortedRoster()" classname="SchoolTest" time="0.004"/>
+  <testcase name="addAStudent()" classname="SchoolTest" time="0.009"/>
+  <testcase name="studentsAreSortedByNameInTheRoster()" classname="SchoolTest" time="0.002"/>
+  <testcase name="gradeIsEmptyIfNoStudentsInTheRoster()" classname="SchoolTest" time="0.001"/>
+  <testcase name="studentNotAddedToMultipleGradesInTheRoster()" classname="SchoolTest" time="0.001"/>
+  <testcase name="addingMoreStudentsAddsThemToTheSameSortedRoster()" classname="SchoolTest" time="0.002"/>
+  <testcase name="rosterReturnsAnEmptyListIfThereAreNoStudentsEnrolled()" classname="SchoolTest" time="0.026"/>
+  <testcase name="addingAStudentAddsThemToTheSortedRoster()" classname="SchoolTest" time="0.006"/>
+  <testcase name="studentNotAddedToTheSameGradeMoreThanOnce()" classname="SchoolTest" time="0.008"/>
+  <testcase name="studentsAreSortedByNameInAGrade()" classname="SchoolTest" time="0.002"/>
+  <testcase name="cannotAddSameStudentToMultipleGradesInTheRoster()" classname="SchoolTest" time="0.009"/>
+  <testcase name="studentsAreSortedByGradeAndThenByNameInTheRoster()" classname="SchoolTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

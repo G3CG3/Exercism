@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CryptoSquareTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-03-11T09:15:02" hostname="DESKTOP-PS9LSPL" time="0.326">
+  <properties/>
+  <testcase name="punctuationIsRemovedDuringEncryption()" classname="CryptoSquareTest" time="0.16"/>
+  <testcase name="fiftyFourCharacterPlaintextResultsInSevenChunksWithTrailingSpaces()" classname="CryptoSquareTest" time="0.002"/>
+  <testcase name="emptyPlaintextResultsInEmptyCiphertext()" classname="CryptoSquareTest" time="0.01"/>
+  <testcase name="normalizationResultsInEmptyCiphertext()" classname="CryptoSquareTest" time="0.012"/>
+  <testcase name="nineCharacterPlaintextResultsInThreeChunksOfThreeCharacters()" classname="CryptoSquareTest" time="0.03"/>
+  <testcase name="spacesAreRemovedDuringEncryption()" classname="CryptoSquareTest" time="0.016"/>
+  <testcase name="lettersAreLowerCasedDuringEncryption()" classname="CryptoSquareTest" time="0.007"/>
+  <testcase name="eightCharacterPlaintextResultsInThreeChunksWithATrailingSpace()" classname="CryptoSquareTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

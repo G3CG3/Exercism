@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PascalsTriangleGeneratorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-02-25T13:52:28" hostname="DESKTOP-PS9LSPL" time="0.619">
+  <properties/>
+  <testcase name="testTriangleWithFourRows()" classname="PascalsTriangleGeneratorTest" time="0.518"/>
+  <testcase name="testTriangleWithZeroRows()" classname="PascalsTriangleGeneratorTest" time="0.002"/>
+  <testcase name="testTriangleWithSixRows()" classname="PascalsTriangleGeneratorTest" time="0.001"/>
+  <testcase name="testTriangleWithOneRow()" classname="PascalsTriangleGeneratorTest" time="0.002"/>
+  <testcase name="testTriangleWithThreeRows()" classname="PascalsTriangleGeneratorTest" time="0.003"/>
+  <testcase name="testTriangleWithTenRows()" classname="PascalsTriangleGeneratorTest" time="0.004"/>
+  <testcase name="testTriangleWithFiveRows()" classname="PascalsTriangleGeneratorTest" time="0.008"/>
+  <testcase name="testTriangleWithTwoRows()" classname="PascalsTriangleGeneratorTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

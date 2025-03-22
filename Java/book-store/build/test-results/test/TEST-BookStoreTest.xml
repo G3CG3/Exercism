@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BookStoreTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2025-03-19T07:49:29" hostname="GEGE" time="0.253">
+  <properties/>
+  <testcase name="oneGroupOfOneAndFourIsCheaperThanOneGroupOfTwoAndThree()" classname="BookStoreTest" time="0.036"/>
+  <testcase name="fourDifferentBooks()" classname="BookStoreTest" time="0.0"/>
+  <testcase name="threeDifferentBooks()" classname="BookStoreTest" time="0.0"/>
+  <testcase name="groupOfFourPlusGroupOfTwoIsCheaperThanTwoGroupsOfThree()" classname="BookStoreTest" time="0.0"/>
+  <testcase name="onlyASingleBook()" classname="BookStoreTest" time="0.001"/>
+  <testcase name="threeCopiesOfFirstBookAnd2EachOfRemaining()" classname="BookStoreTest" time="0.003"/>
+  <testcase name="fiveDifferentBooks()" classname="BookStoreTest" time="0.001"/>
+  <testcase name="twoOfSameBook()" classname="BookStoreTest" time="0.0"/>
+  <testcase name="emptyBasket()" classname="BookStoreTest" time="0.0"/>
+  <testcase name="twoGroupsOfFourIsCheaperThanGroupsOfFiveAndThree()" classname="BookStoreTest" time="0.0"/>
+  <testcase name="twoEachOfFirst4BooksAnd1CopyEachOfRest()" classname="BookStoreTest" time="0.0"/>
+  <testcase name="oneGroupOfOneAndTwoPlusThreeGroupsOfFourIsCheaperThanOneGroupOfEachSize()" classname="BookStoreTest" time="0.012"/>
+  <testcase name="twoCopiesOfEachBook()" classname="BookStoreTest" time="0.0"/>
+  <testcase name="fourGroupsOfFourAreCheaperThanTwoGroupsEachOfFiveAndThree()" classname="BookStoreTest" time="0.014"/>
+  <testcase name="groupsOfFourAreCreatedEvenWhenThereAreMoreGroupsOfThreeThanGroupsOfFive()" classname="BookStoreTest" time="0.173"/>
+  <testcase name="twoGroupsOfFourIsCheaperThanGroupOfFivePlusGroupOfThree()" classname="BookStoreTest" time="0.001"/>
+  <testcase name="twoDifferentBooks()" classname="BookStoreTest" time="0.001"/>
+  <testcase name="threeEachOFirst2BooksAnd2EachOfRemainingBooks()" classname="BookStoreTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

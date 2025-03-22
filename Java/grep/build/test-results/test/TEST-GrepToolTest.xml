@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GrepToolTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2025-02-24T21:07:12" hostname="DESKTOP-PS9LSPL" time="0.675">
+  <properties/>
+  <testcase name="multipleFilesNoMatchesVariousFlags()" classname="GrepToolTest" time="0.141"/>
+  <testcase name="multipleFilesSeveralMatchesNoFlags()" classname="GrepToolTest" time="0.019"/>
+  <testcase name="multipleFilesSeveralMatchesInvertedFlag()" classname="GrepToolTest" time="0.016"/>
+  <testcase name="multipleFilesSeveralMatchesPrintLineNumbersFlag()" classname="GrepToolTest" time="0.019"/>
+  <testcase name="multipleFilesSeveralMatchesInvertedAndMatchEntireLinesFlags()" classname="GrepToolTest" time="0.016"/>
+  <testcase name="oneFileOneMatchMultipleFlags()" classname="GrepToolTest" time="0.014"/>
+  <testcase name="oneFileSeveralMatchesMatchEntireLineFlag()" classname="GrepToolTest" time="0.02"/>
+  <testcase name="oneFileOneMatchCaseInsensitiveFlag()" classname="GrepToolTest" time="0.041"/>
+  <testcase name="oneFileOneMatchNoFlags()" classname="GrepToolTest" time="0.035"/>
+  <testcase name="oneFileOneMatchPrintFileNamesFlag()" classname="GrepToolTest" time="0.014"/>
+  <testcase name="multipleFilesOneMatchMultipleFlags()" classname="GrepToolTest" time="0.016"/>
+  <testcase name="multipleFilesOneMatchEntireLinesFlag()" classname="GrepToolTest" time="0.017"/>
+  <testcase name="oneFileOneMatchFileFlagTakesPrecedenceOverLineFlag()" classname="GrepToolTest" time="0.015"/>
+  <testcase name="oneFileSeveralMatchesInvertedAndMatchEntireLinesFlags()" classname="GrepToolTest" time="0.015"/>
+  <testcase name="multipleFilesOneMatchPrintFileNamesFlag()" classname="GrepToolTest" time="0.021"/>
+  <testcase name="oneFileSeveralMatchesCaseInsensitiveFlag()" classname="GrepToolTest" time="0.028"/>
+  <testcase name="multipleFilesSeveralMatchesCaseInsensitiveFlag()" classname="GrepToolTest" time="0.018"/>
+  <testcase name="oneFileSeveralMatchesPrintLineNumbersFlag()" classname="GrepToolTest" time="0.012"/>
+  <testcase name="oneFileOneMatchEntireLinesFlag()" classname="GrepToolTest" time="0.014"/>
+  <testcase name="multipleFilesSeveralMatchesFileFlagTakesPrecedenceOverLineNumberFlag()" classname="GrepToolTest" time="0.021"/>
+  <testcase name="oneFileSeveralMatchesInvertedFlag()" classname="GrepToolTest" time="0.012"/>
+  <testcase name="oneFileNoMatchesVariousFlags()" classname="GrepToolTest" time="0.019"/>
+  <testcase name="oneFileSeveralMatchesNoFlags()" classname="GrepToolTest" time="0.016"/>
+  <testcase name="multipleFilesOneMatchNoFlags()" classname="GrepToolTest" time="0.024"/>
+  <testcase name="oneFileOneMatchPrintLineNumbersFlag()" classname="GrepToolTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

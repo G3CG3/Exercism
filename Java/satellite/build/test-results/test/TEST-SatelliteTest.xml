@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SatelliteTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-03-21T20:18:56" hostname="GEGE" time="0.048">
+  <properties/>
+  <testcase name="rejectTraversalsWithRepeatedItems()" classname="SatelliteTest" time="0.031"/>
+  <testcase name="rejectInconsistentTraversalsOfSameLength()" classname="SatelliteTest" time="0.001"/>
+  <testcase name="emptyTree()" classname="SatelliteTest" time="0.007"/>
+  <testcase name="treeWithOneItem()" classname="SatelliteTest" time="0.002"/>
+  <testcase name="rejectTraversalsOfDifferentLengths()" classname="SatelliteTest" time="0.002"/>
+  <testcase name="treeWithManyItems()" classname="SatelliteTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

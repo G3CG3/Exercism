@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArmstrongNumbersTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-02-19T08:08:51" hostname="DESKTOP-PS9LSPL" time="0.198">
+  <properties/>
+  <testcase name="threeDigitNumberIsNotArmstrongNumber()" classname="ArmstrongNumbersTest" time="0.121"/>
+  <testcase name="sevenDigitNumberIsNotArmstrongNumber()" classname="ArmstrongNumbersTest" time="0.004"/>
+  <testcase name="noTwoDigitArmstrongNumbers()" classname="ArmstrongNumbersTest" time="0.007"/>
+  <testcase name="singleDigitsAreArmstrongNumbers()" classname="ArmstrongNumbersTest" time="0.003"/>
+  <testcase name="zeroIsArmstrongNumber()" classname="ArmstrongNumbersTest" time="0.006"/>
+  <testcase name="sevenDigitNumberIsArmstrongNumber()" classname="ArmstrongNumbersTest" time="0.004"/>
+  <testcase name="fourDigitNumberIsNotArmstrongNumber()" classname="ArmstrongNumbersTest" time="0.005"/>
+  <testcase name="fourDigitNumberIsArmstrongNumber()" classname="ArmstrongNumbersTest" time="0.004"/>
+  <testcase name="threeDigitNumberIsArmstrongNumber()" classname="ArmstrongNumbersTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

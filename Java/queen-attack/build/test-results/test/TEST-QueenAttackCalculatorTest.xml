@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QueenAttackCalculatorTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2025-03-07T16:49:22" hostname="DESKTOP-PS9LSPL" time="0.269">
+  <properties/>
+  <testcase name="testNullPositionsNotAllowed()" classname="QueenAttackCalculatorTest" time="0.127"/>
+  <testcase name="testCreateQueenMustHaveColumnOnBoard()" classname="QueenAttackCalculatorTest" time="0.004"/>
+  <testcase name="testQueenCannotAttackIfFallingDiagonalsAreOnlyTheSameWhenReflectedAcrossTheLongestFallingDiagonal()" classname="QueenAttackCalculatorTest" time="0.007"/>
+  <testcase name="testCreateQueenMustHavePositiveRow()" classname="QueenAttackCalculatorTest" time="0.01"/>
+  <testcase name="testCreateQueenMustHavePositiveColumn()" classname="QueenAttackCalculatorTest" time="0.01"/>
+  <testcase name="testCreateQueenWithAValidPosition()" classname="QueenAttackCalculatorTest" time="0.004"/>
+  <testcase name="testQueensCanAttackOnTheSameColumn()" classname="QueenAttackCalculatorTest" time="0.005"/>
+  <testcase name="testCreateQueenMustHaveRowOnBoard()" classname="QueenAttackCalculatorTest" time="0.01"/>
+  <testcase name="testQueensCanAttackOnThirdDiagonal()" classname="QueenAttackCalculatorTest" time="0.004"/>
+  <testcase name="testQueensCanAttackOnSecondDiagonal()" classname="QueenAttackCalculatorTest" time="0.005"/>
+  <testcase name="testQueensCanAttackOnTheSameRow()" classname="QueenAttackCalculatorTest" time="0.003"/>
+  <testcase name="testQueensCanAttackOnFourthDiagonal()" classname="QueenAttackCalculatorTest" time="0.002"/>
+  <testcase name="testQueensMustNotOccupyTheSameSquare()" classname="QueenAttackCalculatorTest" time="0.006"/>
+  <testcase name="testQueensCanAttackOnFirstDiagonal()" classname="QueenAttackCalculatorTest" time="0.002"/>
+  <testcase name="testQueensCannotAttack()" classname="QueenAttackCalculatorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

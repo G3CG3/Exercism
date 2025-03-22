@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SumOfMultiplesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-24T09:44:07" hostname="DESKTOP-PS9LSPL" time="0.356">
+  <properties/>
+  <testcase name="testSumOfMultiplesOfZeroIsZero()" classname="SumOfMultiplesTest" time="0.356"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

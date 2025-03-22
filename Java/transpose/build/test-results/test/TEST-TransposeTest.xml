@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TransposeTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-03-09T13:03:13" hostname="DESKTOP-PS9LSPL" time="0.679">
+  <properties/>
+  <testcase name="jaggedTriangle()" classname="TransposeTest" time="0.61"/>
+  <testcase name="secondLineLongerThanFirstLine()" classname="TransposeTest" time="0.009"/>
+  <testcase name="simple()" classname="TransposeTest" time="0.007"/>
+  <testcase name="square()" classname="TransposeTest" time="0.003"/>
+  <testcase name="firstLineLongerThanSecondLine()" classname="TransposeTest" time="0.002"/>
+  <testcase name="twoCharactersInARow()" classname="TransposeTest" time="0.002"/>
+  <testcase name="singleLine()" classname="TransposeTest" time="0.001"/>
+  <testcase name="rectangle()" classname="TransposeTest" time="0.001"/>
+  <testcase name="mixedLineLength()" classname="TransposeTest" time="0.002"/>
+  <testcase name="emptyString()" classname="TransposeTest" time="0.005"/>
+  <testcase name="twoCharactersInAColumn()" classname="TransposeTest" time="0.002"/>
+  <testcase name="triangle()" classname="TransposeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

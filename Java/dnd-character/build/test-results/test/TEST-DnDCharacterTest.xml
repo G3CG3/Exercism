@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DnDCharacterTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2025-02-19T10:50:53" hostname="DESKTOP-PS9LSPL" time="0.494">
+  <properties/>
+  <testcase name="testAbilityCalculationsUses3LargestNumbersFromScoresInDescendingOrder()" classname="DnDCharacterTest" time="0.133"/>
+  <testcase name="testAbilityModifierForScore3IsNegative4()" classname="DnDCharacterTest" time="0.005"/>
+  <testcase name="testAbilityCalculationsUses3LargestNumbersFromScoresInRandomOrder()" classname="DnDCharacterTest" time="0.007"/>
+  <testcase name="testAbilityModifierForScore4IsNegative3()" classname="DnDCharacterTest" time="0.002"/>
+  <testcase name="testAbilityModifierForScore5IsNegative3()" classname="DnDCharacterTest" time="0.004"/>
+  <testcase name="testAbilityModifierForScore10Is0()" classname="DnDCharacterTest" time="0.002"/>
+  <testcase name="testAbilityModifierForScore11Is0()" classname="DnDCharacterTest" time="0.002"/>
+  <testcase name="testAbilityModifierForScore12Is1()" classname="DnDCharacterTest" time="0.004"/>
+  <testcase name="testAbilityModifierForScore13Is1()" classname="DnDCharacterTest" time="0.003"/>
+  <testcase name="testAbilityModifierForScore14Is2()" classname="DnDCharacterTest" time="0.007"/>
+  <testcase name="testAbilityModifierForScore15Is2()" classname="DnDCharacterTest" time="0.007"/>
+  <testcase name="testAbilityModifierForScore16Is3()" classname="DnDCharacterTest" time="0.002"/>
+  <testcase name="testAbilityModifierForScore17Is3()" classname="DnDCharacterTest" time="0.002"/>
+  <testcase name="testAbilityModifierForScore18Is4()" classname="DnDCharacterTest" time="0.002"/>
+  <testcase name="testEachAbilityIsOnlyCalculatedOnce()" classname="DnDCharacterTest" time="0.003"/>
+  <testcase name="testAbilityModifierForScore6IsNegative2()" classname="DnDCharacterTest" time="0.008"/>
+  <testcase name="testAbilityModifierForScore7IsNegative2()" classname="DnDCharacterTest" time="0.004"/>
+  <testcase name="testAbilityModifierForScore8IsNegative1()" classname="DnDCharacterTest" time="0.003"/>
+  <testcase name="testAbilityModifierForScore9IsNegative1()" classname="DnDCharacterTest" time="0.002"/>
+  <testcase name="testAbilityCalculationsWithTwoLowestNumbers()" classname="DnDCharacterTest" time="0.006"/>
+  <testcase name="testAbilityCalculationsUses3LargestNumbersFromFromScoresInAscendingOrder()" classname="DnDCharacterTest" time="0.001"/>
+  <testcase name="testUniqueCharacterIsCreated()" classname="DnDCharacterTest" time="0.047"/>
+  <testcase name="testAbilityCalculationDoesNotChangeInputScores()" classname="DnDCharacterTest" time="0.028"/>
+  <testcase name="testAbilityCalculationsWithLowestEqualNumbers()" classname="DnDCharacterTest" time="0.002"/>
+  <testcase name="testRandomCharacterIsValid()" classname="DnDCharacterTest" time="0.058"/>
+  <testcase name="testAbilityCalculationsWithHighestEqualNumbers()" classname="DnDCharacterTest" time="0.005"/>
+  <testcase name="testDiceValuesBetween1And6()" classname="DnDCharacterTest" time="0.011"/>
+  <testcase name="test4DiceWereUsedForRollingScores()" classname="DnDCharacterTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

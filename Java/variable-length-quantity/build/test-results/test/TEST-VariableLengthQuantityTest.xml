@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VariableLengthQuantityTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2025-02-24T15:21:16" hostname="DESKTOP-PS9LSPL" time="0.363">
+  <properties/>
+  <testcase name="testLargestDoubleByte()" classname="VariableLengthQuantityTest" time="0.155"/>
+  <testcase name="testLargestTripleByte()" classname="VariableLengthQuantityTest" time="0.003"/>
+  <testcase name="testLargestSingleByte()" classname="VariableLengthQuantityTest" time="0.003"/>
+  <testcase name="testArbitraryDoubleByte()" classname="VariableLengthQuantityTest" time="0.004"/>
+  <testcase name="testSmallestDoubleByte()" classname="VariableLengthQuantityTest" time="0.003"/>
+  <testcase name="testArbitraryTripleByte()" classname="VariableLengthQuantityTest" time="0.003"/>
+  <testcase name="testSmallestTripleByte()" classname="VariableLengthQuantityTest" time="0.003"/>
+  <testcase name="testArbitrarySingleByte()" classname="VariableLengthQuantityTest" time="0.003"/>
+  <testcase name="testMaximum32BitIntegerInput()" classname="VariableLengthQuantityTest" time="0.004"/>
+  <testcase name="testDecodeMultipleBytes()" classname="VariableLengthQuantityTest" time="0.005"/>
+  <testcase name="testTwoSingleByteValues()" classname="VariableLengthQuantityTest" time="0.006"/>
+  <testcase name="testZero()" classname="VariableLengthQuantityTest" time="0.002"/>
+  <testcase name="testDecodeFourBytes()" classname="VariableLengthQuantityTest" time="0.003"/>
+  <testcase name="testCannotDecodeIncompleteSequence()" classname="VariableLengthQuantityTest" time="0.045"/>
+  <testcase name="testDecodeTwoBytes()" classname="VariableLengthQuantityTest" time="0.002"/>
+  <testcase name="testManyMultiByteValues()" classname="VariableLengthQuantityTest" time="0.004"/>
+  <testcase name="testTwoMultiByteValues()" classname="VariableLengthQuantityTest" time="0.002"/>
+  <testcase name="testDecodeThreeBytes()" classname="VariableLengthQuantityTest" time="0.002"/>
+  <testcase name="testArbitraryQuadrupleByte()" classname="VariableLengthQuantityTest" time="0.004"/>
+  <testcase name="testSmallestQuadrupleByte()" classname="VariableLengthQuantityTest" time="0.004"/>
+  <testcase name="testDecodeOneByte()" classname="VariableLengthQuantityTest" time="0.003"/>
+  <testcase name="testCannotDecodeIncompleteSequenceEvenIfValueIsZero()" classname="VariableLengthQuantityTest" time="0.004"/>
+  <testcase name="testLargestQuadrupleByte()" classname="VariableLengthQuantityTest" time="0.003"/>
+  <testcase name="testDecodeMaximum32BitInteger()" classname="VariableLengthQuantityTest" time="0.002"/>
+  <testcase name="testArbitraryQuintupleByte()" classname="VariableLengthQuantityTest" time="0.009"/>
+  <testcase name="testSmallestQuintupleByte()" classname="VariableLengthQuantityTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RotationalCipherTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-02-23T10:59:50" hostname="DESKTOP-PS9LSPL" time="0.248">
+  <properties/>
+  <testcase name="rotateCapitalLetters()" classname="RotationalCipherTest" time="0.129"/>
+  <testcase name="rotateNumbers()" classname="RotationalCipherTest" time="0.005"/>
+  <testcase name="rotatePunctuation()" classname="RotationalCipherTest" time="0.008"/>
+  <testcase name="rotateAllLetters()" classname="RotationalCipherTest" time="0.005"/>
+  <testcase name="rotateSingleCharacterBy0()" classname="RotationalCipherTest" time="0.003"/>
+  <testcase name="rotateSingleCharacterBy1()" classname="RotationalCipherTest" time="0.001"/>
+  <testcase name="rotateSingleCharacterBy13()" classname="RotationalCipherTest" time="0.012"/>
+  <testcase name="rotateSingleCharacterBy26()" classname="RotationalCipherTest" time="0.006"/>
+  <testcase name="rotateSpaces()" classname="RotationalCipherTest" time="0.005"/>
+  <testcase name="rotateSingleCharacterWithWrapAround()" classname="RotationalCipherTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

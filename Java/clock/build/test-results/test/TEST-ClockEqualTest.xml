@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ClockEqualTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2025-03-11T08:43:25" hostname="DESKTOP-PS9LSPL" time="0.301">
+  <properties/>
+  <testcase name="clocksWithNegateHour()" classname="ClockEqualTest" time="0.142"/>
+  <testcase name="clocksWithHourOverflowBySeveralDays()" classname="ClockEqualTest" time="0.007"/>
+  <testcase name="clocksWithNegativeMinutes()" classname="ClockEqualTest" time="0.005"/>
+  <testcase name="clocksWithNegativeMinutesThatWraps()" classname="ClockEqualTest" time="0.008"/>
+  <testcase name="clocksWithNegativeHourThatWraps()" classname="ClockEqualTest" time="0.007"/>
+  <testcase name="clocksAMinuteApartAreNotEqual()" classname="ClockEqualTest" time="0.004"/>
+  <testcase name="clocksWithNegativeHoursAndMinutesThatWrap()" classname="ClockEqualTest" time="0.004"/>
+  <testcase name="clocksAnHourApartAreNotEqual()" classname="ClockEqualTest" time="0.006"/>
+  <testcase name="clocksWithFullClockAndZeroedClockAreEqual()" classname="ClockEqualTest" time="0.006"/>
+  <testcase name="clocksWithHourOverflow()" classname="ClockEqualTest" time="0.005"/>
+  <testcase name="clocksWithNegativeMinutesThatWrapsMultipleTimes()" classname="ClockEqualTest" time="0.003"/>
+  <testcase name="clocksWithNegativeHourThatWrapsMultipleTimes()" classname="ClockEqualTest" time="0.003"/>
+  <testcase name="clocksWithMinuteOverflowBySeveralDays()" classname="ClockEqualTest" time="0.001"/>
+  <testcase name="clocksWithMinuteOverflow()" classname="ClockEqualTest" time="0.011"/>
+  <testcase name="clocksWithNegativeHoursAndMinutes()" classname="ClockEqualTest" time="0.003"/>
+  <testcase name="clocksWithSameTimeAreEqual()" classname="ClockEqualTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

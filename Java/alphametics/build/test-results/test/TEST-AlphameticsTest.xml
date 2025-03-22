@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AlphameticsTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-02-28T12:55:17" hostname="DESKTOP-PS9LSPL" time="5.093">
+  <properties/>
+  <testcase name="testFourLetters()" classname="AlphameticsTest" time="0.194"/>
+  <testcase name="testSevenLetters()" classname="AlphameticsTest" time="0.169"/>
+  <testcase name="testThreeLetters()" classname="AlphameticsTest" time="0.004"/>
+  <testcase name="testTwoDigitsFinalCarry()" classname="AlphameticsTest" time="0.004"/>
+  <testcase name="testTenLetters41Addends()" classname="AlphameticsTest" time="3.821"/>
+  <testcase name="testTenLetters()" classname="AlphameticsTest" time="0.553"/>
+  <testcase name="testLeadingZero()" classname="AlphameticsTest" time="0.009"/>
+  <testcase name="testEightLetters()" classname="AlphameticsTest" time="0.28"/>
+  <testcase name="testUniqueValue()" classname="AlphameticsTest" time="0.005"/>
+  <testcase name="testSixLetters()" classname="AlphameticsTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

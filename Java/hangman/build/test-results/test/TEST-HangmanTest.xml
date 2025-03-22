@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HangmanTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-03-19T18:34:32" hostname="GEGE" time="0.089">
+  <properties/>
+  <testcase name="consecutiveGames()" classname="HangmanTest" time="0.071"/>
+  <testcase name="lostGame()" classname="HangmanTest" time="0.003"/>
+  <testcase name="cannotPlayAGuessTwice()" classname="HangmanTest" time="0.002"/>
+  <testcase name="firstGuess()" classname="HangmanTest" time="0.003"/>
+  <testcase name="firstMiss()" classname="HangmanTest" time="0.0"/>
+  <testcase name="wonGame()" classname="HangmanTest" time="0.001"/>
+  <testcase name="gameInProgress()" classname="HangmanTest" time="0.001"/>
+  <testcase name="cannotPlayAMissTwice()" classname="HangmanTest" time="0.001"/>
+  <testcase name="initialization()" classname="HangmanTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

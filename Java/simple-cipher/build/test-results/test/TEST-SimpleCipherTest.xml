@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleCipherTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-03-21T16:41:27" hostname="GEGE" time="0.067">
+  <properties/>
+  <testcase name="randomKeyCipherIsReversible()" classname="SimpleCipherTest" time="0.045"/>
+  <testcase name="randomKeyCipherCanDecode()" classname="SimpleCipherTest" time="0.002"/>
+  <testcase name="randomKeyCipherCanEncode()" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="substitutionCipherCanDoubleShiftEncode()" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="randomKeyCipherKeyIsLowercaseLetters()" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="substitutionCipherCanDecode()" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="substitutionCipherCanEncode()" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="substitutionCipherCanWrapDecode()" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="substitutionCipherCanWrapEncode()" classname="SimpleCipherTest" time="0.001"/>
+  <testcase name="substitutionCipherMessageLongerThanKey()" classname="SimpleCipherTest" time="0.002"/>
+  <testcase name="substitutionCipherIsReversibleGivenKey()" classname="SimpleCipherTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

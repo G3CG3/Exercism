@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FighterTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2025-02-18T12:17:42" hostname="DESKTOP-PS9LSPL" time="0.374">
+  <properties/>
+  <testcase name="A Wizard is vulnerable when not prepared with a spell" classname="FighterTest" time="0.129"/>
+  <testcase name="The toString method of the Warrior returns the correct description of the fighter" classname="FighterTest" time="0.009"/>
+  <testcase name="The Wizard class inherits from the Fighter class" classname="FighterTest" time="0.01"/>
+  <testcase name="The Warrior class overrides the toString method" classname="FighterTest" time="0.006"/>
+  <testcase name="The Wizard class overrides the isVulnerable method" classname="FighterTest" time="0.003"/>
+  <testcase name="The Warrior class is defined" classname="FighterTest" time="0.002"/>
+  <testcase name="A Warrior deals 10 damage to a vulnerable target" classname="FighterTest" time="0.028"/>
+  <testcase name="The Fighter class does not contain the prepareSpell method" classname="FighterTest" time="0.012"/>
+  <testcase name="A Wizard deals 12 damage after a spell has been prepared" classname="FighterTest" time="0.006"/>
+  <testcase name="The Wizard class overrides the getDamagePoints(Fighter) method" classname="FighterTest" time="0.003"/>
+  <testcase name="The toString method of the Wizard returns the correct description of the fighter" classname="FighterTest" time="0.005"/>
+  <testcase name="A Wizard deals 3 damage when no spell has been prepared" classname="FighterTest" time="0.005"/>
+  <testcase name="The Warrior class inherits from the Fighter class" classname="FighterTest" time="0.009"/>
+  <testcase name="The Warrior class overrides the isVulnerable method" classname="FighterTest" time="0.008"/>
+  <testcase name="A Wizard is not vulnerable when prepared with a spell" classname="FighterTest" time="0.002"/>
+  <testcase name="The Wizard class overrides the toString method" classname="FighterTest" time="0.001"/>
+  <testcase name="The Wizard class is defined" classname="FighterTest" time="0.005"/>
+  <testcase name="The Wizard class contains the prepareSpell method" classname="FighterTest" time="0.005"/>
+  <testcase name="The Warrior class overrides the getDamagePoints(Fighter) method" classname="FighterTest" time="0.014"/>
+  <testcase name="A Warrior deals 6 damage to an invulnerable target" classname="FighterTest" time="0.011"/>
+  <testcase name="A Warrior is never vulnerable" classname="FighterTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

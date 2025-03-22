@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordProblemSolverTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2025-03-10T09:03:24" hostname="DESKTOP-PS9LSPL" time="0.427">
+  <properties/>
+  <testcase name="testSingleMultiplication()" classname="WordProblemSolverTest" time="0.203"/>
+  <testcase name="testMultipleDivisions()" classname="WordProblemSolverTest" time="0.01"/>
+  <testcase name="testUnknownOperation()" classname="WordProblemSolverTest" time="0.008"/>
+  <testcase name="testJustANumber()" classname="WordProblemSolverTest" time="0.008"/>
+  <testcase name="testSingleDivision()" classname="WordProblemSolverTest" time="0.002"/>
+  <testcase name="testAdditionThenSubtraction()" classname="WordProblemSolverTest" time="0.004"/>
+  <testcase name="testNoOperandsOrOperators()" classname="WordProblemSolverTest" time="0.003"/>
+  <testcase name="testMissingAnOperand()" classname="WordProblemSolverTest" time="0.007"/>
+  <testcase name="testSingleAdditionWithNegativeNumbers()" classname="WordProblemSolverTest" time="0.002"/>
+  <testcase name="testMultipleAdditions()" classname="WordProblemSolverTest" time="0.004"/>
+  <testcase name="testTwoOperationsInARow()" classname="WordProblemSolverTest" time="0.003"/>
+  <testcase name="testSubtractionThenAddition()" classname="WordProblemSolverTest" time="0.005"/>
+  <testcase name="testPrefixNotation()" classname="WordProblemSolverTest" time="0.008"/>
+  <testcase name="testMultipleSubtractions()" classname="WordProblemSolverTest" time="0.003"/>
+  <testcase name="testPostfixNotation()" classname="WordProblemSolverTest" time="0.004"/>
+  <testcase name="testMultipleMultiplications()" classname="WordProblemSolverTest" time="0.008"/>
+  <testcase name="testSingleSubtraction()" classname="WordProblemSolverTest" time="0.005"/>
+  <testcase name="testSingleAddition1()" classname="WordProblemSolverTest" time="0.005"/>
+  <testcase name="testSingleAddition2()" classname="WordProblemSolverTest" time="0.006"/>
+  <testcase name="testTwoNumbersAfterOperation()" classname="WordProblemSolverTest" time="0.015"/>
+  <testcase name="testNonMathQuestion()" classname="WordProblemSolverTest" time="0.003"/>
+  <testcase name="testSingleAdditionOfLargeNumbers()" classname="WordProblemSolverTest" time="0.001"/>
+  <testcase name="testAdditionThenMultiplication()" classname="WordProblemSolverTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
