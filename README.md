@@ -17,9 +17,9 @@ Each folder represents an exercise, and each .java file includes:
 > Build a strong foundation for backend or full-stack development
 
 ## Disclaimer
-These solutions are intended for educational purposes only.
+These solutions are intended for educational purposes only.  
 Please do not copy-paste them into your own submissions unless you fully understand the logic.
 
 ## Author
-George
-Java enthusiast & aspiring full-stack developer
+*George*    
+*Java enthusiast & aspiring full-stack developer*
